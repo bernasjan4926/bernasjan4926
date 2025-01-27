@@ -1,5 +1,5 @@
 # 💫 About Me:
-**interested in reverse engineering/game cheats<br>currently learning assembly/c++/c#.**
+**interested in reverse engineering/game development<br>currently learning lua/assembly/c++/c#.**
 
 
 ## 🌐 Socials:
